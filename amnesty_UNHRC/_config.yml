@@ -6,9 +6,9 @@
 #######################################################################################
 # Book settings
 title                       : Amnesty UNHCR Dashboard  # The title of the book. Will be placed in the left navbar.
-author                      : The Developer Society  # The author of the book
-copyright                   : "2024"  # Copyright year to be placed in the footer
-logo                        : logo.png  # A path to the book logo
+author                      : Amnesty & The Developer Society  # The author of the book
+copyright                   : "© Amnesty International UK 2024. Amnesty International UK Section Charitable Trust. A company limited by guarantee registered in England and Wales (03139939) and a charity registered in England and Wales (1051681) and Scotland (SC039534). Amnesty International United Kingdom Section. A company limited by guarantee registered in England and Wales (01735872). Registered office 17-25 New Inn Yard London EC2A 3EA."  # Copyright year to be placed in the footer
+logo                        : logo.svg  # A path to the book logo
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -21,8 +21,8 @@ latex:
     targetname: book.tex
 
 # Add a bibtex file so that we can create citations
-bibtex_bibfiles:
-  - references.bib
+# bibtex_bibfiles:
+#   - references.bib
 
 # Information about where the book exists on the web
 repository:
