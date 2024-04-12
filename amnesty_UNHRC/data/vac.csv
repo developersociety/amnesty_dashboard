@@ -1,0 +1,1100 @@
+Entry Date (date of delivery),Region,Destination,Arrived (D)
+31-Dec-20,Middle East,Turkey,
+10-Jan-21,Middle East,Turkey,
+20-Jan-21,Middle East,Turkey,
+25-Jan-21,Middle East,Turkey,
+4-Feb-21,Middle East,Iraq,
+28-Feb-21,Middle East,Iran,0.25
+2-Mar-21,Middle East,Lebanon,
+3-Mar-21,Middle East,Iraq,0.05
+13-Mar-21,Middle East,Bahrain,
+30-Mar-21,Middle East,Palestine,0.1
+31-Mar-21,Middle East,Iran,
+3-Apr-21,Middle East,Iran,
+6-Apr-21,Middle East,Jordan,
+11-Apr-21,Middle East,Iraq,0.2
+17-Apr-21,Middle East,Iran,0.4
+24-Apr-21,Middle East,Syria,0.15
+2-May-21,Middle East,Iran,
+4-May-21,Middle East,Iran,
+9-May-21,Middle East,Iran,
+12-May-21,Middle East,Turkey,
+13-May-21,Middle East,Iran,
+4-Jun-21,Middle East,Iraq,
+19-Jun-21,Middle East,Turkey,
+4-Jul-21,Middle East,Iran,
+14-Jul-21,Middle East,Lebanon,0.05
+19-Jul-21,Middle East,Palestine,
+25-Jul-21,Middle East,Iran,0.2
+12-Aug-21,Middle East,Iraq,0.5
+17-Aug-21,Middle East,Iran,0.7
+22-Aug-21,Middle East,Iran,
+26-Aug-21,Middle East,Iran,
+26-Aug-21,Middle East,Iran,
+27-Aug-21,Middle East,Lebanon,0.3
+3-Sep-21,Middle East,Iran,
+5-Sep-21,Middle East,Iran,
+23-Sep-21,Middle East,Iran,
+30-Sep-21,Middle East,Iran,2
+1-Oct-21,Middle East,Iran,
+10-Oct-21,Middle East,Iran,
+12-Oct-21,Middle East,Iran,
+13-Oct-21,Middle East,Iraq,
+14-Oct-21,Middle East,Iraq,1
+14-Oct-21,Middle East,Iran,
+17-Oct-21,Middle East,Iran,
+19-Oct-21,Middle East,Iran,
+23-Oct-21,Middle East,Iran,
+24-Oct-21,Middle East,Iran,
+28-Oct-21,Middle East,Iran,
+28-Oct-21,Middle East,Iran,
+28-Oct-21,Middle East,Iran,
+4-Nov-21,Middle East,Jordan,0.5
+11-Nov-21,Middle East,Turkey,
+14-Nov-21,Middle East,Syria,0.5
+15-Nov-21,Middle East,Iran,
+29-Nov-21,Middle East,Lebanon,0.3
+4-Jan-22,Middle East,Syria,1
+20-Feb-22,Middle East,Palestine,0.5
+9-Mar-22,Middle East,UNRWA,0.002
+17 May 21,Middle East,Oman,0.1
+Aug,Middle East,Syria,
+,Middle East,UAE,
+,Middle East,Palestine,
+,Middle East,UAE,
+,Middle East,UAE,
+,Middle East,Jordan,
+,Middle East,Turkey,
+,Middle East,Jordan,-
+,Middle East,Jordan,
+,Middle East,Turkey,
+,Middle East,Iran,
+20-Apr-22,Latin America ,Grenada,0.02
+10-Dec-20,Latin America,Mexico,
+16-Dec-20,Latin America,Brazil,
+13-Jan-21,Latin America,Peru,
+28-Jan-21,Latin America,Chile,
+1-Feb-21,Latin America,Argentina,
+3-Feb-21,Latin America,Brazil,
+5-Feb-21,Latin America,Brazil,
+8-Feb-21,Latin America,Peru,
+10-Feb-21,Latin America,Brazil,
+11-Feb-21,Latin America,Bolivia,
+13-Feb-21,Latin America,Peru,
+15-Feb-21,Latin America,Dominican Republic,
+20-Feb-21,Latin America,Mexico,
+20-Feb-21,Latin America,Colombia,
+24-Feb-21,Latin America,Dominican Republic,
+24-Feb-21,Latin America,Argentina,
+24-Feb-21,Latin America,Dominican Republic,
+24-Feb-21,Latin America,Bolivia,0.1
+25-Feb-21,Latin America,Colombia,
+26-Feb-21,Latin America,Ecuador,
+26-Feb-21,Latin America,Uruguay,
+28-Feb-21,Latin America,Mexico,
+1-Mar-21,Latin America,Venezuela,
+2-Mar-21,Latin America,Argentina,
+4-Mar-21,Latin America,Guyana,0.02
+4-Mar-21,Latin America,Brazil,
+5-Mar-21,Latin America,Dominica,0.02
+7-Mar-21,Latin America,Colombia,
+8-Mar-21,Latin America,Chile,
+9-Mar-21,Latin America,Mexico,
+9-Mar-21,Latin America,Mexico,
+14-Mar-21,Latin America,Mexico,
+16-Mar-21,Latin America,Uruguay,
+18-Mar-21,Latin America,Colombia,
+18-Mar-21,Latin America,Dominican Republic,
+18-Mar-21,Latin America,Dominican Republic,0.05
+20-Mar-21,Latin America,Colombia,
+21-Mar-21,Latin America,Chile,
+23-Mar-21,Latin America,Mexico,
+24-Mar-21,Latin America,Trinidad and Tobago,
+25-Mar-21,Latin America,Mexico,
+26-Mar-21,Latin America,Mexico,
+29-Mar-21,Latin America,El Salvador,
+30-Mar-21,Latin America,Bolivia,
+30-Mar-21,Latin America,Argentina,
+31-Mar-21,Latin America,Chile,
+1-Apr-21,Latin America,Barbados,
+5-Apr-21,Latin America,El Salvador,
+8-Apr-21,Latin America,El Salvador,0.15
+10-Apr-21,Latin America,Ecuador,
+11-Apr-21,Latin America,Chile,
+11-Apr-21,Latin America,Colombia,
+19-Apr-21,Latin America,Brazil,
+25-Apr-21,Latin America,Mexico,
+25-Apr-21,Latin America,Argentina,
+25-Apr-21,Latin America,Argentina,
+26-Apr-21,Latin America,Argentina,
+26-Apr-21,Latin America,El Salvador,
+27-Apr-21,Latin America,Colombia,
+29-Apr-21,Latin America,Argentina,
+1-May-21,Latin America,Colombia,
+3-May-21,Latin America,Chile,
+5-May-21,Latin America,Chile,
+9-May-21,Latin America,Dominican Republic,
+9-May-21,Latin America,Colombia,
+10-May-21,Latin America,Peru,
+10-May-21,Latin America,Trinidad and Tobago,
+12-May-21,Latin America,Brazil,
+15-May-21,Latin America,Mexico,
+15-May-21,Latin America,Mexico,
+16-May-21,Latin America,Colombia,
+17-May-21,Latin America,Bolivia,
+19-May-21,Latin America,Trinidad and Tobago,0.1
+19-May-21,Latin America,El Salvador,
+23-May-21,Latin America,Colombia,
+24-May-21,Latin America,Venezuela,0.5
+24-May-21,Latin America,Chile,
+25-May-21,Latin America,Dominican Republic,
+26-May-21,Latin America,Brazil,
+26-May-21,Latin America,Peru,
+26-May-21,Latin America,Dominican Republic,
+26-May-21,Latin America,Brazil,
+27-May-21,Latin America,Argentina,
+28-May-21,Latin America,Chile,
+29-May-21,Latin America,Ecuador,0.2
+29-May-21,Latin America,Ecuador,
+30-May-21,Latin America,Peru,
+2-Jun-21,Latin America,Peru,
+4-Jun-21,Latin America,Dominican Republic,
+5-Jun-21,Latin America,Peru,
+6-Jun-21,Latin America,Colombia,
+9-Jun-21,Latin America,El Salvador,
+11-Jun-21,Latin America,Argentina,
+12-Jun-21,Latin America,Ecuador,
+15-Jun-21,Latin America,Trinidad and Tobago,
+16-Jun-21,Latin America,Brazil,
+16-Jun-21,Latin America,Chile,
+16-Jun-21,Latin America,Ecuador,
+17-Jun-21,Latin America,Dominican Republic,
+17-Jun-21,Latin America,Dominican Republic,
+18-Jun-21,Latin America,Colombia,
+20-Jun-21,Latin America,Chile,
+22-Jun-21,Latin America,Dominican Republic,
+22-Jun-21,Latin America,Argentina,
+22-Jun-21,Latin America,Bolivia,
+23-Jun-21,Latin America,Argentina,
+23-Jun-21,Latin America,Argentina,
+24-Jun-21,Latin America,Bolivia,
+26-Jun-21,Latin America,Colombia,
+26-Jun-21,Latin America,Brazil,
+26-Jun-21,Latin America,Chile,
+26-Jun-21,Latin America,Chile,
+27-Jun-21,Latin America,Argentina,
+28-Jun-21,Latin America,Colombia,
+28-Jun-21,Latin America,Ecuador,
+29-Jun-21,Latin America,Guyana,
+29-Jun-21,Latin America,Brazil,
+29-Jun-21,Latin America,Suriname,0.1
+30-Jun-21,Latin America,Barbados,0.03
+30-Jun-21,Latin America,Antigua and Barbuda,0.02
+30-Jun-21,Latin America,Guyana,
+1-Jul-21,Latin America,Bolivia,
+3-Jul-21,Latin America,Ecuador,
+4-Jul-21,Latin America,Argentina,
+7-Jul-21,Latin America,El Salvador,
+7-Jul-21,Latin America,Ecuador,
+9-Jul-21,Latin America,Dominican Republic,
+9-Jul-21,Latin America,Argentina,
+10-Jul-21,Latin America,Ecuador,
+10-Jul-21,Latin America,Mexico,
+10-Jul-21,Latin America,Argentina,
+10-Jul-21,Latin America,Colombia,
+10-Jul-21,Latin America,Peru,
+11-Jul-21,Latin America,Argentina,
+11-Jul-21,Latin America,Bolivia,
+11-Jul-21,Latin America,Colombia,
+13-Jul-21,Latin America,Trinidad and Tobago,
+13-Jul-21,Latin America,Brazil,
+13-Jul-21,Latin America,Argentina,
+14-Jul-21,Latin America,Brazil,
+14-Jul-21,Latin America,Mexico,
+15-Jul-21,Latin America,Brazil,
+15-Jul-21,Latin America,Argentina,
+16-Jul-21,Latin America,Brazil,
+16-Jul-21,Latin America,Argentina,
+17-Jul-21,Latin America,Bolivia,
+18-Jul-21,Latin America,Ecuador,
+18-Jul-21,Latin America,Colombia,
+19-Jul-21,Latin America,Mexico,
+20-Jul-21,Latin America,Argentina,
+21-Jul-21,Latin America,Argentina,
+21-Jul-21,Latin America,Mexico,
+22-Jul-21,Latin America,Argentina,
+22-Jul-21,Latin America,Argentina,
+23-Jul-21,Latin America,Argentina,
+23-Jul-21,Latin America,Bolivia,
+27-Jul-21,Latin America,El Salvador,
+28-Jul-21,Latin America,Mexico,
+30-Jul-21,Latin America,Bolivia,
+30-Jul-21,Latin America,Chile,
+2-Aug-21,Latin America,Bolivia,
+2-Aug-21,Latin America,Peru,
+3-Aug-21,Latin America,Ecuador,
+5-Aug-21,Latin America,Chile,
+6-Aug-21,Latin America,Argentina,
+6-Aug-21,Latin America,Colombia,
+6-Aug-21,Latin America,Bolivia,0.3
+6-Aug-21,Latin America,Mexico,
+7-Aug-21,Latin America,Colombia,
+8-Aug-21,Latin America,Brazil,
+11-Aug-21,Latin America,Brazil,
+13-Aug-21,Latin America,Brazil,
+14-Aug-21,Latin America,Ecuador,
+15-Aug-21,Latin America,Peru,
+15-Aug-21,Latin America,Peru,
+16-Aug-21,Latin America,Bolivia,0.3
+18-Aug-21,Latin America,Argentina,
+18-Aug-21,Latin America,Ecuador,
+18-Aug-21,Latin America,Brazil,
+19-Aug-21,Latin America,Argentina,
+20-Aug-21,Latin America,Chile,
+21-Aug-21,Latin America,Argentina,
+21-Aug-21,Latin America,Ecuador,
+21-Aug-21,Latin America,Peru,
+22-Aug-21,Latin America,Ecuador,
+22-Aug-21,Latin America,Peru,
+23-Aug-21,Latin America,Brazil,
+25-Aug-21,Latin America,Argentina,
+27-Aug-21,Latin America,Chile,
+29-Aug-21,Latin America,Dominican Republic,
+30-Aug-21,Latin America,Peru,
+1-Sep-21,Latin America,Cuba,0.25
+2-Sep-21,Latin America,Brazil,
+2-Sep-21,Latin America,Argentina,
+2-Sep-21,Latin America,Argentina,
+3-Sep-21,Latin America,Argentina,
+4-Sep-21,Latin America,Argentina,
+6-Sep-21,Latin America,Bolivia,
+7-Sep-21,Latin America,Argentina,
+10-Sep-21,Latin America,Peru,
+11-Sep-21,Latin America,Peru,
+12-Sep-21,Latin America,Peru,
+13-Sep-21,Latin America,Colombia,
+16-Sep-21,Latin America,Brazil,
+19-Sep-21,Latin America,Argentina,
+23-Sep-21,Latin America,Argentina,
+24-Sep-21,Latin America,Argentina,
+24-Sep-21,Latin America,Argentina,
+26-Sep-21,Latin America,Argentina,
+30-Sep-21,Latin America,Mexico,
+2-Oct-21,Latin America,Barbados,
+4-Oct-21,Latin America,Argentina,
+12-Oct-21,Latin America,Trinidad and Tobago,
+21-Oct-21,Latin America,Mexico,
+23-Oct-21,Latin America,Peru,
+24-Oct-21,Latin America,Peru,
+25-Oct-21,Latin America,Peru,
+29-Oct-21,Latin America,Peru,
+30-Oct-21,Latin America,Ecuador,0.5
+31-Oct-21,Latin America,Peru,
+5-Nov-21,Latin America,Argentina,
+7-Nov-21,Latin America,Argentina,
+20-Nov-21,Latin America,Mexico,
+22-Nov-21,Latin America,Jamaica,
+24-Nov-21,Latin America,Jamaica,0.1
+6-Dec-21,Latin America,Chile,
+8-Dec-21,Latin America,Mexico,
+9-Dec-21,Latin America,Bolivia,
+13-Dec-21,Latin America,Nicaragua,0.2
+19-Dec-21,Latin America,El Salvador,0.5
+19-Dec-21,Latin America,El Salvador,0.1
+26-Dec-21,Latin America,Bolivia,3
+13-Jan-22,Latin America,Nicaragua,
+16-Feb-22,Latin America,Chile,
+17-May-22,Latin America,Ecuador,2.5
+1-Oct-22,Latin America,Nicaragua,2
+11-Oct-22,Latin America,Nicaragua,0.5
+10-Nov-22,Latin America,Brazil,
+,Latin America,Brazil,
+,Latin America,Brazil,
+,Latin America,Argentina,
+,Latin America,Trinidad and Tobago,
+,Latin America,Honduras,
+,Latin America,Mexico,
+,Latin America,Mexico,
+17-Jan-21,Europe,Ukraine,
+11-Feb-21,Europe,Serbia,
+16-Feb-21,Europe,Hungary,
+20-Feb-21,Europe,Belarus,0.1
+3-Mar-21,Europe,Montenegro,0.03
+8-Mar-21,Europe,Serbia,
+11-Mar-21,Europe,Hungary,
+12-Mar-21,Europe,North Macedonia,
+18-Mar-21,Europe,Hungary,
+19-Mar-21,Europe,Serbia,
+26-Mar-21,Europe,Ukraine,
+6-Apr-21,Europe,Serbia,
+10-Apr-21,Europe,Moldova,
+22-Apr-21,Europe,Moldova,0.15
+27-Apr-21,Europe,Moldova,
+29-Apr-21,Europe,Bosnia and Herzegovina,0.05
+30-Apr-21,Europe,Montenegro,
+30-Apr-21,Europe,Ukraine,
+6-May-21,Europe,Bosnia and Herzegovina,
+8-May-21,Europe,Hungary,
+9-May-21,Europe,Ukraine,
+17-May-21,Europe,Hungary,
+18-May-21,Europe,Belarus,0.3
+26-May-21,Europe,Ukraine,
+27-May-21,Europe,Serbia,0.2
+19-Jun-21,Europe,Albania,
+20-Jun-21,Europe,Albania,
+27-Jun-21,Europe,North Macedonia,
+1-Jul-21,Europe,Montenegro,
+2-Jul-21,Europe,Bosnia and Herzegovina,
+13-Jul-21,Europe,Serbia,
+15-Jul-21,Europe,Albania,
+26-Jul-21,Europe,Belarus,
+30-Jul-21,Europe,Bosnia and Herzegovina,
+6-Aug-21,Europe,Bosnia and Herzegovina,
+25-Aug-21,Europe,Belarus,
+4-Sep-21,Europe,Serbia,
+5-Sep-21,Europe,Belarus,0.5
+9-Sep-21,Europe,Serbia,
+10-Sep-21,Europe,Hungary,
+10-Nov-21,Europe,Belarus,
+11-Nov-21,Europe,Belarus,0.5
+23-Dec-21,Europe,Belarus,
+19-Jan-22,Europe,Ukraine,
+20-Jan-22,Europe,Belarus,
+21-Jan-22,Europe,Belarus,1.5
+14-Nov-22,Europe,Belarus,2
+,Europe,Serbia,
+,Europe,Serbia,
+,Europe,Hungary,
+,Europe,North Macedonia,-
+30-Dec-20,Asia and the Pacific,Indonesia,
+11-Jan-21,Asia and the Pacific,Philippines,
+12-Jan-21,Asia and the Pacific,Indonesia,
+12-Jan-21,Asia and the Pacific,Malaysia,
+1-Feb-21,Asia and the Pacific,Nepal,
+1-Feb-21,Asia and the Pacific,Pakistan,0.5
+2-Feb-21,Asia and the Pacific,Indonesia,
+2-Feb-21,Asia and the Pacific,Maldives,0.005
+7-Feb-21,Asia and the Pacific,Cambodia,0.6
+7-Feb-21,Asia and the Pacific,Pakistan,
+16-Feb-21,Asia and the Pacific,Laos,0.302
+23-Feb-21,Asia and the Pacific,Mongolia,0.3
+24-Feb-21,Asia and the Pacific,Thailand,
+25-Feb-21,Asia and the Pacific,Philippines,
+25-Feb-21,Asia and the Pacific,Indonesia,
+26-Feb-21,Asia and the Pacific,Singapore,
+27-Feb-21,Asia and the Pacific,Malaysia,
+1-Mar-21,Asia and the Pacific,Afghanistan,
+2-Mar-21,Asia and the Pacific,Philippines,0.6
+2-Mar-21,Asia and the Pacific,Philippines,
+3-Mar-21,Asia and the Pacific,Indonesia,
+4-Mar-21,Asia and the Pacific,Nepal,
+4-Mar-21,Asia and the Pacific,Philippines,
+6-Mar-21,Asia and the Pacific,Turkmenistan,
+8-Mar-21,Asia and the Pacific,Uzbekistan,
+15-Mar-21,Asia and the Pacific,Malaysia,
+16-Mar-21,Asia and the Pacific,Cambodia,
+17-Mar-21,Asia and the Pacific,Pakistan,0.5
+18-Mar-21,Asia and the Pacific,Thailand,
+19-Mar-21,Asia and the Pacific,Kyrgyzstan,0.15
+20-Mar-21,Asia and the Pacific,Thailand,
+20-Mar-21,Asia and the Pacific,Thailand,
+21-Mar-21,Asia and the Pacific,Maldives,
+22-Mar-21,Asia and the Pacific,Malaysia,
+23-Mar-21,Asia and the Pacific,Philippines,0.4
+24-Mar-21,Asia and the Pacific,Pakistan,
+24-Mar-21,Asia and the Pacific,Pakistan,
+24-Mar-21,Asia and the Pacific,Papua New Guinea,
+25-Mar-21,Asia and the Pacific,Singapore,
+25-Mar-21,Asia and the Pacific,Maldives,0.1
+25-Mar-21,Asia and the Pacific,Indonesia,
+26-Mar-21,Asia and the Pacific,Cambodia,
+26-Mar-21,Asia and the Pacific,Cambodia,0.003
+27-Mar-21,Asia and the Pacific,Uzbekistan,
+29-Mar-21,Asia and the Pacific,Philippines,
+29-Mar-21,Asia and the Pacific,Nepal,0.8
+29-Mar-21,Asia and the Pacific,Maldives,0.1
+31-Mar-21,Asia and the Pacific,Pakistan,
+31-Mar-21,Asia and the Pacific,Sri Lanka,0.6
+31-Mar-21,Asia and the Pacific,Laos,0.8
+1-Apr-21,Asia and the Pacific,Pakistan,
+1-Apr-21,Asia and the Pacific,Pakistan,
+1-Apr-21,Asia and the Pacific,Cambodia,0.7
+2-Apr-21,Asia and the Pacific,Azerbaijan,
+2-Apr-21,Asia and the Pacific,Brunei,0.052
+3-Apr-21,Asia and the Pacific,Georgia,
+3-Apr-21,Asia and the Pacific,Mongolia,
+6-Apr-21,Asia and the Pacific,Thailand,
+11-Apr-21,Asia and the Pacific,Thailand,
+11-Apr-21,Asia and the Pacific,Philippines,
+12-Apr-21,Asia and the Pacific,Solomon Islands,0.05
+13-Apr-21,Asia and the Pacific,Cambodia,
+16-Apr-21,Asia and the Pacific,Pakistan,
+17-Apr-21,Asia and the Pacific,Cambodia,
+18-Apr-21,Asia and the Pacific,Pakistan,
+19-Apr-21,Asia and the Pacific,Indonesia,
+21-Apr-21,Asia and the Pacific,Philippines,
+22-Apr-21,Asia and the Pacific,Timor Leste,
+24-Apr-21,Asia and the Pacific,Mongolia,
+24-Apr-21,Asia and the Pacific,Thailand,
+24-Apr-21,Asia and the Pacific,Pakistan,
+25-Apr-21,Asia and the Pacific,Pakistan,
+25-Apr-21,Asia and the Pacific,Pakistan,
+25-Apr-21,Asia and the Pacific,Pakistan,
+25-Apr-21,Asia and the Pacific,Pakistan,
+26-Apr-21,Asia and the Pacific,Thailand,
+27-Apr-21,Asia and the Pacific,Uzbekistan,
+28-Apr-21,Asia and the Pacific,Cambodia,0.4
+29-Apr-21,Asia and the Pacific,Philippines,
+30-Apr-21,Asia and the Pacific,Georgia,0.1
+30-Apr-21,Asia and the Pacific,Laos,0.3
+30-Apr-21,Asia and the Pacific,Pakistan,
+30-Apr-21,Asia and the Pacific,Indonesia,
+1-May-21,Asia and the Pacific,Armenia,0.1
+5-May-21,Asia and the Pacific,Myanmar,0.5
+6-May-21,Asia and the Pacific,Philippines,
+6-May-21,Asia and the Pacific,Pakistan,
+9-May-21,Asia and the Pacific,Pakistan,
+10-May-21,Asia and the Pacific,Pakistan,
+10-May-21,Asia and the Pacific,Turkmenistan,
+12-May-21,Asia and the Pacific,Bangladesh,0.5
+12-May-21,Asia and the Pacific,Cambodia,
+13-May-21,Asia and the Pacific,Thailand,0.5
+16-May-21,Asia and the Pacific,Georgia,
+16-May-21,Asia and the Pacific,Pakistan,
+16-May-21,Asia and the Pacific,Pakistan,
+17-May-21,Asia and the Pacific,Cambodia,
+17-May-21,Asia and the Pacific,Thailand,
+18-May-21,Asia and the Pacific,Azerbaijan,0
+18-May-21,Asia and the Pacific,Uzbekistan,
+19-May-21,Asia and the Pacific,Uzbekistan,
+20-May-21,Asia and the Pacific,Philippines,
+20-May-21,Asia and the Pacific,Sri Lanka,
+20-May-21,Asia and the Pacific,Sri Lanka,
+21-May-21,Asia and the Pacific,Thailand,
+21-May-21,Asia and the Pacific,Bangladesh,
+23-May-21,Asia and the Pacific,Pakistan,
+24-May-21,Asia and the Pacific,Cambodia,
+24-May-21,Asia and the Pacific,Afghanistan,
+25-May-21,Asia and the Pacific,Bangladesh,
+25-May-21,Asia and the Pacific,Indonesia,
+26-May-21,Asia and the Pacific,Sri Lanka,0.5
+27-May-21,Asia and the Pacific,Nepal,
+28-May-21,Asia and the Pacific,Indonesia,
+30-May-21,Asia and the Pacific,Pakistan,
+1-Jun-21,Asia and the Pacific,Pakistan,0.5
+1-Jun-21,Asia and the Pacific,Indonesia,
+1-Jun-21,Asia and the Pacific,Nepal,0.9008
+2-Jun-21,Asia and the Pacific,Kazakhstan,
+2-Jun-21,Asia and the Pacific,Nepal,0.0992
+3-Jun-21,Asia and the Pacific,Thailand,
+5-Jun-21,Asia and the Pacific,Timor Leste,0.1
+5-Jun-21,Asia and the Pacific,Thailand,0.5
+6-Jun-21,Asia and the Pacific,Philippines,
+8-Jun-21,Asia and the Pacific,Cambodia,
+8-Jun-21,Asia and the Pacific,Cambodia,0.5
+8-Jun-21,Asia and the Pacific,Vanuatu,0.02
+8-Jun-21,Asia and the Pacific,Cambodia,
+8-Jun-21,Asia and the Pacific,Cambodia,
+9-Jun-21,Asia and the Pacific,Sri Lanka,
+10-Jun-21,Asia and the Pacific,Philippines,
+10-Jun-21,Asia and the Pacific,Afghanistan,0.7
+10-Jun-21,Asia and the Pacific,Thailand,
+10-Jun-21,Asia and the Pacific,Uzbekistan,
+11-Jun-21,Asia and the Pacific,Indonesia,
+12-Jun-21,Asia and the Pacific,Cambodia,
+13-Jun-21,Asia and the Pacific,Bangladesh,0.6
+14-Jun-21,Asia and the Pacific,Laos,0.5
+15-Jun-21,Asia and the Pacific,Thailand,
+16-Jun-21,Asia and the Pacific,Nepal,
+17-Jun-21,Asia and the Pacific,Philippines,
+18-Jun-21,Asia and the Pacific,Pakistan,
+18-Jun-21,Asia and the Pacific,Pakistan,
+18-Jun-21,Asia and the Pacific,Pakistan,
+19-Jun-21,Asia and the Pacific,Cambodia,
+20-Jun-21,Asia and the Pacific,Pakistan,
+20-Jun-21,Asia and the Pacific,Thailand,
+21-Jun-21,Asia and the Pacific,Indonesia,
+21-Jun-21,Asia and the Pacific,Vietnam,0.5
+21-Jun-21,Asia and the Pacific,Tajikistan,0.3
+21-Jun-21,Asia and the Pacific,Indonesia,
+21-Jun-21,Asia and the Pacific,Malaysia,
+22-Jun-21,Asia and the Pacific,Sri Lanka,
+23-Jun-21,Asia and the Pacific,Pakistan,
+23-Jun-21,Asia and the Pacific,Thailand,
+23-Jun-21,Asia and the Pacific,Cambodia,
+24-Jun-21,Asia and the Pacific,Philippines,
+24-Jun-21,Asia and the Pacific,Pakistan,
+26-Jun-21,Asia and the Pacific,Cambodia,
+27-Jun-21,Asia and the Pacific,Cambodia,
+27-Jun-21,Asia and the Pacific,Indonesia,
+28-Jun-21,Asia and the Pacific,Philippines,
+28-Jun-21,Asia and the Pacific,Turkmenistan,
+28-Jun-21,Asia and the Pacific,Sri Lanka,
+29-Jun-21,Asia and the Pacific,Sri Lanka,
+29-Jun-21,Asia and the Pacific,Pakistan,
+29-Jun-21,Asia and the Pacific,Uzbekistan,
+30-Jun-21,Asia and the Pacific,Indonesia,
+30-Jun-21,Asia and the Pacific,Uzbekistan,
+30-Jun-21,Asia and the Pacific,Malaysia,
+2-Jul-21,Asia and the Pacific,Georgia,
+2-Jul-21,Asia and the Pacific,Georgia,
+2-Jul-21,Asia and the Pacific,Sri Lanka,
+3-Jul-21,Asia and the Pacific,Bangladesh,
+4-Jul-21,Asia and the Pacific,Sri Lanka,
+4-Jul-21,Asia and the Pacific,Pakistan,
+5-Jul-21,Asia and the Pacific,Thailand,
+6-Jul-21,Asia and the Pacific,Cambodia,
+6-Jul-21,Asia and the Pacific,Pakistan,
+7-Jul-21,Asia and the Pacific,Pakistan,
+7-Jul-21,Asia and the Pacific,Thailand,
+8-Jul-21,Asia and the Pacific,Pakistan,
+9-Jul-21,Asia and the Pacific,Nepal,
+10-Jul-21,Asia and the Pacific,Cambodia,
+10-Jul-21,Asia and the Pacific,Cambodia,
+11-Jul-21,Asia and the Pacific,Sri Lanka,
+11-Jul-21,Asia and the Pacific,Kyrgyzstan,0.15
+12-Jul-21,Asia and the Pacific,Indonesia,
+13-Jul-21,Asia and the Pacific,Pakistan,
+13-Jul-21,Asia and the Pacific,Indonesia,
+13-Jul-21,Asia and the Pacific,Bhutan,
+14-Jul-21,Asia and the Pacific,Philippines,
+15-Jul-21,Asia and the Pacific,Sri Lanka,
+15-Jul-21,Asia and the Pacific,Bhutan,
+15-Jul-21,Asia and the Pacific,Pakistan,
+16-Jul-21,Asia and the Pacific,Indonesia,
+16-Jul-21,Asia and the Pacific,Malaysia,0.5
+16-Jul-21,Asia and the Pacific,Nepal,
+17-Jul-21,Asia and the Pacific,Bangladesh,
+17-Jul-21,Asia and the Pacific,Philippines,
+18-Jul-21,Asia and the Pacific,Bangladesh,
+18-Jul-21,Asia and the Pacific,Georgia,
+18-Jul-21,Asia and the Pacific,Bangladesh,2
+18-Jul-21,Asia and the Pacific,Thailand,
+19-Jul-21,Asia and the Pacific,Indonesia,
+19-Jul-21,Asia and the Pacific,Pakistan,
+20-Jul-21,Asia and the Pacific,Pakistan,
+20-Jul-21,Asia and the Pacific,Pakistan,
+20-Jul-21,Asia and the Pacific,Uzbekistan,
+21-Jul-21,Asia and the Pacific,Pakistan,
+21-Jul-21,Asia and the Pacific,Myanmar,
+21-Jul-21,Asia and the Pacific,Uzbekistan,
+22-Jul-21,Asia and the Pacific,Cambodia,
+22-Jul-21,Asia and the Pacific,Sri Lanka,
+22-Jul-21,Asia and the Pacific,Philippines,
+22-Jul-21,Asia and the Pacific,Myanmar,0.736
+22-Jul-21,Asia and the Pacific,Nepal,
+22-Jul-21,Asia and the Pacific,Nepal,
+23-Jul-21,Asia and the Pacific,Philippines,
+23-Jul-21,Asia and the Pacific,Myanmar,
+23-Jul-21,Asia and the Pacific,Cambodia,
+23-Jul-21,Asia and the Pacific,Nepal,
+24-Jul-21,Asia and the Pacific,Myanmar,
+24-Jul-21,Asia and the Pacific,Myanmar,0.528
+25-Jul-21,Asia and the Pacific,Maldives,
+25-Jul-21,Asia and the Pacific,Thailand,
+25-Jul-21,Asia and the Pacific,Myanmar,
+25-Jul-21,Asia and the Pacific,Nepal,
+26-Jul-21,Asia and the Pacific,Uzbekistan,
+26-Jul-21,Asia and the Pacific,Pakistan,
+27-Jul-21,Asia and the Pacific,Indonesia,
+28-Jul-21,Asia and the Pacific,Tajikistan,
+29-Jul-21,Asia and the Pacific,Philippines,
+29-Jul-21,Asia and the Pacific,Bangladesh,
+30-Jul-21,Asia and the Pacific,Philippines,
+30-Jul-21,Asia and the Pacific,Bangladesh,
+30-Jul-21,Asia and the Pacific,Indonesia,
+30-Jul-21,Asia and the Pacific,Malaysia,
+30-Jul-21,Asia and the Pacific,Indonesia,
+30-Jul-21,Asia and the Pacific,Nepal,
+31-Jul-21,Asia and the Pacific,Vietnam,
+31-Jul-21,Asia and the Pacific,Cambodia,
+1-Aug-21,Asia and the Pacific,Cambodia,1
+1-Aug-21,Asia and the Pacific,Kyrgyzstan,
+1-Aug-21,Asia and the Pacific,Thailand,
+2-Aug-21,Asia and the Pacific,Bangladesh,
+2-Aug-21,Asia and the Pacific,Pakistan,
+2-Aug-21,Asia and the Pacific,Pakistan,2
+3-Aug-21,Asia and the Pacific,Indonesia,
+5-Aug-21,Asia and the Pacific,Philippines,
+5-Aug-21,Asia and the Pacific,Bangladesh,
+5-Aug-21,Asia and the Pacific,Uzbekistan,
+6-Aug-21,Asia and the Pacific,Sri Lanka,
+6-Aug-21,Asia and the Pacific,Pakistan,
+6-Aug-21,Asia and the Pacific,Uzbekistan,
+7-Aug-21,Asia and the Pacific,Pakistan,
+7-Aug-21,Asia and the Pacific,Laos,1
+8-Aug-21,Asia and the Pacific,Pakistan,
+8-Aug-21,Asia and the Pacific,Sri Lanka,
+10-Aug-21,Asia and the Pacific,Singapore,
+11-Aug-21,Asia and the Pacific,Laos,1
+11-Aug-21,Asia and the Pacific,Pakistan,
+12-Aug-21,Asia and the Pacific,Cambodia,
+12-Aug-21,Asia and the Pacific,Uzbekistan,
+12-Aug-21,Asia and the Pacific,Uzbekistan,
+13-Aug-21,Asia and the Pacific,Bangladesh,1
+13-Aug-21,Asia and the Pacific,Indonesia,
+14-Aug-21,Asia and the Pacific,Vietnam,
+15-Aug-21,Asia and the Pacific,Thailand,
+15-Aug-21,Asia and the Pacific,Thailand,
+15-Aug-21,Asia and the Pacific,Kazakhstan,
+16-Aug-21,Asia and the Pacific,Kazakhstan,
+16-Aug-21,Asia and the Pacific,Indonesia,
+16-Aug-21,Asia and the Pacific,Thailand,
+18-Aug-21,Asia and the Pacific,Vietnam,
+18-Aug-21,Asia and the Pacific,Myanmar,
+18-Aug-21,Asia and the Pacific,Nepal,
+18-Aug-21,Asia and the Pacific,Armenia,
+19-Aug-21,Asia and the Pacific,Bangladesh,
+19-Aug-21,Asia and the Pacific,Myanmar,0.736
+19-Aug-21,Asia and the Pacific,Philippines,
+19-Aug-21,Asia and the Pacific,Philippines,
+19-Aug-21,Asia and the Pacific,Nepal,
+20-Aug-21,Asia and the Pacific,Malaysia,
+20-Aug-21,Asia and the Pacific,Philippines,0.7392
+20-Aug-21,Asia and the Pacific,Indonesia,
+21-Aug-21,Asia and the Pacific,Philippines,0.2608
+21-Aug-21,Asia and the Pacific,Philippines,
+22-Aug-21,Asia and the Pacific,Pakistan,
+22-Aug-21,Asia and the Pacific,Cambodia,
+22-Aug-21,Asia and the Pacific,Uzbekistan,
+23-Aug-21,Asia and the Pacific,Cambodia,0.5
+23-Aug-21,Asia and the Pacific,Indonesia,
+23-Aug-21,Asia and the Pacific,Vietnam,0.2
+23-Aug-21,Asia and the Pacific,Cambodia,0.1
+24-Aug-21,Asia and the Pacific,Sri Lanka,
+25-Aug-21,Asia and the Pacific,Philippines,
+25-Aug-21,Asia and the Pacific,Sri Lanka,
+25-Aug-21,Asia and the Pacific,Vietnam,
+27-Aug-21,Asia and the Pacific,Kyrgyzstan,
+27-Aug-21,Asia and the Pacific,Indonesia,
+28-Aug-21,Asia and the Pacific,Sri Lanka,0.3
+28-Aug-21,Asia and the Pacific,Myanmar,
+28-Aug-21,Asia and the Pacific,Sri Lanka,
+28-Aug-21,Asia and the Pacific,Singapore,
+28-Aug-21,Asia and the Pacific,Vietnam,
+29-Aug-21,Asia and the Pacific,Pakistan,
+29-Aug-21,Asia and the Pacific,Bangladesh,0.3
+29-Aug-21,Asia and the Pacific,Thailand,
+30-Aug-21,Asia and the Pacific,Indonesia,
+31-Aug-21,Asia and the Pacific,Bangladesh,
+31-Aug-21,Asia and the Pacific,Cambodia,
+31-Aug-21,Asia and the Pacific,Bangladesh,
+1-Sep-21,Asia and the Pacific,Kiribati,0.09
+1-Sep-21,Asia and the Pacific,Bangladesh,
+4-Sep-21,Asia and the Pacific,Cambodia,0.5
+4-Sep-21,Asia and the Pacific,Myanmar,1
+5-Sep-21,Asia and the Pacific,Sri Lanka,
+5-Sep-21,Asia and the Pacific,Thailand,
+5-Sep-21,Asia and the Pacific,Uzbekistan,
+6-Sep-21,Asia and the Pacific,Uzbekistan,
+6-Sep-21,Asia and the Pacific,Indonesia,
+6-Sep-21,Asia and the Pacific,Philippines,
+7-Sep-21,Asia and the Pacific,Pakistan,
+9-Sep-21,Asia and the Pacific,Afghanistan,
+9-Sep-21,Asia and the Pacific,Vietnam,
+9-Sep-21,Asia and the Pacific,Kazakhstan,
+10-Sep-21,Asia and the Pacific,Philippines,
+10-Sep-21,Asia and the Pacific,Singapore,
+11-Sep-21,Asia and the Pacific,Vietnam,
+11-Sep-21,Asia and the Pacific,Bangladesh,
+12-Sep-21,Asia and the Pacific,Cambodia,
+12-Sep-21,Asia and the Pacific,Thailand,
+12-Sep-21,Asia and the Pacific,Georgia,0.1
+13-Sep-21,Asia and the Pacific,Myanmar,
+13-Sep-21,Asia and the Pacific,Philippines,
+13-Sep-21,Asia and the Pacific,Brunei,0.1
+13-Sep-21,Asia and the Pacific,Pakistan,
+15-Sep-21,Asia and the Pacific,Pakistan,
+15-Sep-21,Asia and the Pacific,Singapore,
+17-Sep-21,Asia and the Pacific,Sri Lanka,
+17-Sep-21,Asia and the Pacific,Nepal,
+17-Sep-21,Asia and the Pacific,Sri Lanka,
+18-Sep-21,Asia and the Pacific,Sri Lanka,
+18-Sep-21,Asia and the Pacific,Bangladesh,
+19-Sep-21,Asia and the Pacific,Philippines,
+20-Sep-21,Asia and the Pacific,Singapore,
+20-Sep-21,Asia and the Pacific,Malaysia,
+20-Sep-21,Asia and the Pacific,Indonesia,
+20-Sep-21,Asia and the Pacific,Malaysia,
+21-Sep-21,Asia and the Pacific,Indonesia,
+21-Sep-21,Asia and the Pacific,Indonesia,
+21-Sep-21,Asia and the Pacific,Pakistan,
+21-Sep-21,Asia and the Pacific,Pakistan,
+22-Sep-21,Asia and the Pacific,Vietnam,
+23-Sep-21,Asia and the Pacific,Cambodia,
+23-Sep-21,Asia and the Pacific,Bangladesh,
+23-Sep-21,Asia and the Pacific,Philippines,
+24-Sep-21,Asia and the Pacific,Nepal,0.1
+24-Sep-21,Asia and the Pacific,Cambodia,
+24-Sep-21,Asia and the Pacific,Indonesia,1
+26-Sep-21,Asia and the Pacific,Philippines,
+26-Sep-21,Asia and the Pacific,Pakistan,
+27-Sep-21,Asia and the Pacific,Myanmar,
+28-Sep-21,Asia and the Pacific,Cambodia,
+29-Sep-21,Asia and the Pacific,Myanmar,
+29-Sep-21,Asia and the Pacific,Malaysia,
+30-Sep-21,Asia and the Pacific,Pakistan,
+1-Oct-21,Asia and the Pacific,Philippines,
+1-Oct-21,Asia and the Pacific,Uzbekistan,
+1-Oct-21,Asia and the Pacific,Georgia,
+2-Oct-21,Asia and the Pacific,Myanmar,
+2-Oct-21,Asia and the Pacific,Pakistan,
+Oct-21,Asia and the Pacific,Malaysia,
+Oct-21,Asia and the Pacific,Vietnam,
+6-Oct-21,Asia and the Pacific,Nepal,
+6-Oct-21,Asia and the Pacific,Nepal,
+11-Oct-21,Asia and the Pacific,Laos,
+13-Oct-21,Asia and the Pacific,Myanmar,1
+13-Oct-21,Asia and the Pacific,Laos,1
+13-Oct-21,Asia and the Pacific,Uzbekistan,
+14-Oct-21,Asia and the Pacific,Philippines,
+14-Oct-21,Asia and the Pacific,Cambodia,2
+14-Oct-21,Asia and the Pacific,Myanmar,1
+18-Oct-21,Asia and the Pacific,Armenia,
+18-Oct-21,Asia and the Pacific,Uzbekistan,
+19-Oct-21,Asia and the Pacific,Bangladesh,1
+19-Oct-21,Asia and the Pacific,Nepal,
+20-Oct-21,Asia and the Pacific,Myanmar,
+21-Oct-21,Asia and the Pacific,Bangladesh,
+21-Oct-21,Asia and the Pacific,Uzbekistan,
+23-Oct-21,Asia and the Pacific,Myanmar,
+23-Oct-21,Asia and the Pacific,Vietnam,0.8
+24-Oct-21,Asia and the Pacific,Philippines,1
+24-Oct-21,Asia and the Pacific,Vietnam,
+26-Oct-21,Asia and the Pacific,Bangladesh,0.2
+26-Oct-21,Asia and the Pacific,Indonesia,
+27-Oct-21,Asia and the Pacific,Indonesia,
+28-Oct-21,Asia and the Pacific,Indonesia,
+28-Oct-21,Asia and the Pacific,Indonesia,
+29-Oct-21,Asia and the Pacific,Indonesia,
+30-Oct-21,Asia and the Pacific,Pakistan,
+1-Nov-21,Asia and the Pacific,Cambodia,
+1-Nov-21,Asia and the Pacific,Indonesia,
+2-Nov-21,Asia and the Pacific,Pakistan,
+2-Nov-21,Asia and the Pacific,Philippines,
+3-Nov-21,Asia and the Pacific,Pakistan,
+3-Nov-21,Asia and the Pacific,Nepal,1.6
+3-Nov-21,Asia and the Pacific,Armenia,
+5-Nov-21,Asia and the Pacific,Pakistan,0.2
+5-Nov-21,Asia and the Pacific,Pakistan,
+7-Nov-21,Asia and the Pacific,Myanmar,
+8-Nov-21,Asia and the Pacific,Nepal,0.3
+9-Nov-21,Asia and the Pacific,Indonesia,
+10-Nov-21,Asia and the Pacific,Philippines,
+11-Nov-21,Asia and the Pacific,Philippines,
+12-Nov-21,Asia and the Pacific,Indonesia,
+12-Nov-21,Asia and the Pacific,Myanmar,1
+12-Nov-21,Asia and the Pacific,Thailand,1.5
+13-Nov-21,Asia and the Pacific,Indonesia,
+13-Nov-21,Asia and the Pacific,Malaysia,
+16-Nov-21,Asia and the Pacific,Cambodia,
+17-Nov-21,Asia and the Pacific,Cambodia,2
+20-Nov-21,Asia and the Pacific,Myanmar,1
+21-Nov-21,Asia and the Pacific,Laos,1.9
+21-Nov-21,Asia and the Pacific,Myanmar,1
+23-Nov-21,Asia and the Pacific,Malaysia,
+25-Nov-21,Asia and the Pacific,Bangladesh,
+29-Nov-21,Asia and the Pacific,Indonesia,
+30-Nov-21,Asia and the Pacific,Indonesia,
+1-Dec-21,Asia and the Pacific,Indonesia,
+1-Dec-21,Asia and the Pacific,Malaysia,
+2-Dec-21,Asia and the Pacific,Cambodia,
+2-Dec-21,Asia and the Pacific,Malaysia,
+2-Dec-21,Asia and the Pacific,Vietnam,
+5-Dec-21,Asia and the Pacific,Malaysia,2
+5-Dec-21,Asia and the Pacific,Afghanistan,1
+9-Dec-21,Asia and the Pacific,Uzbekistan,
+10-Dec-21,Asia and the Pacific,Thailand,0.2
+12-Dec-21,Asia and the Pacific,Uzbekistan,
+14-Dec-21,Asia and the Pacific,Kyrgyzstan,1.5
+14-Dec-21,Asia and the Pacific,Philippines,2
+15-Dec-21,Asia and the Pacific,Pakistan,
+15-Dec-21,Asia and the Pacific,Myanmar,
+20-Dec-21,Asia and the Pacific,Nepal,
+21-Dec-21,Asia and the Pacific,Bangladesh,
+21-Dec-21,Asia and the Pacific,Indonesia,2
+23-Dec-21,Asia and the Pacific,Myanmar,
+23-Dec-21,Asia and the Pacific,Myanmar,1
+28-Dec-21,Asia and the Pacific,Pakistan,
+30-Dec-21,Asia and the Pacific,Pakistan,
+8-Jan-22,Asia and the Pacific,Thailand,0.5
+11-Jan-22,Asia and the Pacific,Myanmar,0.74
+25-Jan-22,Asia and the Pacific,Philippines,
+25-Jan-22,Asia and the Pacific,Laos,1.5
+26-Jan-22,Asia and the Pacific,Solomon Islands,0.5
+4-Feb-22,Asia and the Pacific,Thailand,0.1
+7-Feb-22,Asia and the Pacific,Turkmenistan,
+14-Feb-22,Asia and the Pacific,Laos,0.4
+17-Feb-22,Asia and the Pacific,Malaysia,
+2-Mar-22,Asia and the Pacific,Uzbekistan,
+21-Mar-22,Asia and the Pacific,Cambodia,
+26-Mar-22,Asia and the Pacific,Nepal,
+26-Mar-22,Asia and the Pacific,Nepal,3.44336
+29-Mar-22,Asia and the Pacific,Cambodia,1.5
+29-Mar-22,Asia and the Pacific,Timor Leste,0.1
+29-Mar-22,Asia and the Pacific,Nepal,0.55664
+30-Mar-22,Asia and the Pacific,Cambodia,3.5
+6-Apr-22,Asia and the Pacific,Myanmar,
+8-Apr-22,Asia and the Pacific,Vietnam,3.5
+13-Apr-22,Asia and the Pacific,Philippines,0.025
+18-May-22,Asia and the Pacific,Myanmar,5
+29-May-22,Asia and the Pacific,Myanmar,5
+29-May-22,Asia and the Pacific,Uzbekistan,
+1-Jun-22,Asia and the Pacific,Democratic People's Republic of Korea,
+2-Jun-22,Asia and the Pacific,Democratic People's Republic of Korea,
+1-Jul-22,Asia and the Pacific,ASEAN,2
+11-Sep-22,Asia and the Pacific,Myanmar,2
+13-Dec-22,Asia and the Pacific,Cambodia,0.3
+,Asia and the Pacific,Myanmar,
+,Asia and the Pacific,Sri Lanka,
+,Asia and the Pacific,Turkmenistan,
+,Asia and the Pacific,Sri Lanka,
+,Asia and the Pacific,Sri Lanka,
+,Asia and the Pacific,Malaysia,
+,Asia and the Pacific,Indonesia,
+,Asia and the Pacific,Cambodia (military),
+,Asia and the Pacific,Bangladesh,
+,Asia and the Pacific,Bangladesh,
+,Asia and the Pacific,Pakistan,
+,Asia and the Pacific,Pakistan,
+,Asia and the Pacific,Malaysia,
+,Asia and the Pacific,Pakistan,
+,Asia and the Pacific,Nepal,
+9-Dec-20,Africa,Morocco,
+27-Jan-21,Africa,Morocco,
+5-Feb-21,Africa,Congo,
+10-Feb-21,Africa,Zimbabwe,
+11-Feb-21,Africa,Equatorial Guinea,0.1
+15-Feb-21,Africa,Zimbabwe,0.2
+16-Feb-21,Africa,Morocco,
+23-Feb-21,Africa,Senegal,
+23-Feb-21,Africa,Uganda,
+24-Feb-21,Africa,Zimbabwe,
+25-Feb-21,Africa,Mozambique,0.2
+25-Feb-21,Africa,Algeria,0.2
+26-Feb-21,Africa,Sierra Leone,0.2
+8-Mar-21,Africa,Morocco,
+11-Mar-21,Africa,Congo,0.1
+15-Mar-21,Africa,Gabon,0.1
+16-Mar-21,Africa,Namibia,
+16-Mar-21,Africa,Zimbabwe,0.2
+16-Mar-21,Africa,Zimbabwe,
+17-Mar-21,Africa,Namibia,0.1
+17-Mar-21,Africa,Zimbabwe,
+18-Mar-21,Africa,Djibouti,0.2
+18-Mar-21,Africa,Comoros,0.1
+19-Mar-21,Africa,Djibouti,-
+21-Mar-21,Africa,Guinea,0.2
+21-Mar-21,Africa,Benin,0.1
+22-Mar-21,Africa,Niger,0.4
+24-Mar-21,Africa,Egypt,0.3
+24-Mar-21,Africa,Mauritania,0.05
+24-Mar-21,Africa,Sudan,0.25
+25-Mar-21,Africa,Tunisia,0.2
+25-Mar-21,Africa,Angola,0.2
+30-Mar-21,Africa,Zimbabwe,
+1-Apr-21,Africa,Ethiopia,0.3
+7-Apr-21,Africa,Somalia,
+8-Apr-21,Africa,Cameroon,0.2
+12-Apr-21,Africa,Somalia,0.2
+15-Apr-21,Africa,Mauritius,0.1
+18-Apr-21,Africa,Guinea,0.2
+19-Apr-21,Africa,Guinea,
+20-Apr-21,Africa,Madagascar,
+21-Apr-21,Africa,Egypt,
+23-Apr-21,Africa,Botswana,0.2
+26-Apr-21,Africa,Togo,0.2
+26-Apr-21,Africa,Morocco,
+29-Apr-21,Africa,South Africa,
+30-Apr-21,Africa,Gabon,
+30-Apr-21,Africa,Morocco,
+6-May-21,Africa,Egypt,0.3
+10-May-21,Africa,Morocco,
+12-May-21,Africa,Senegal,
+13-May-21,Africa,Egypt,
+14-May-21,Africa,Senegal,0.3
+14-May-21,Africa,Ethiopia,0.1
+17-May-21,Africa,Zimbabwe,0.1
+19-May-21,Africa,Morocco,
+21-May-21,Africa,Egypt,
+21-May-21,Africa,Egypt,
+23-May-21,Africa,Morocco,
+24-May-21,Africa,Mauritius,
+25-May-21,Africa,Zambia,0.0136
+27-May-21,Africa,Morocco,
+29-May-21,Africa,Mauritania,0.28
+31-May-21,Africa,Guinea,
+2-Jun-21,Africa,Chad,0.2
+2-Jun-21,Africa,Zambia,
+3-Jun-21,Africa,Mozambique,0.06
+7-Jun-21,Africa,Egypt,
+11-Jun-21,Africa,Cabo Verde,0.05
+16-Jun-21,Africa,Equatorial Guinea,
+19-Jun-21,Africa,Morocco,
+21-Jun-21,Africa,Ethiopia,0.1
+22-Jun-21,Africa,Equatorial Guinea,
+23-Jun-21,Africa,Zimbabwe,
+23-Jun-21,Africa,Tunisia,
+23-Jun-21,Africa,Côte d'Ivoire,0.1
+24-Jun-21,Africa,Botswana,
+26-Jun-21,Africa,Zimbabwe,
+26-Jun-21,Africa,Egypt,
+26-Jun-21,Africa,Comoros,
+27-Jun-21,Africa,Zambia,
+30-Jun-21,Africa,Egypt,
+30-Jun-21,Africa,Mozambique,
+1-Jul-21,Africa,Comoros,0.1
+5-Jul-21,Africa,Mauritius,
+6-Jul-21,Africa,Morocco,
+6-Jul-21,Africa,Morocco,
+6-Jul-21,Africa,Central African Republic,0.15
+7-Jul-21,Africa,Central African Republic,-
+7-Jul-21,Africa,Egypt,
+8-Jul-21,Africa,Zimbabwe,
+11-Jul-21,Africa,Algeria,
+13-Jul-21,Africa,Morocco,
+13-Jul-21,Africa,Tanzania,
+14-Jul-21,Africa,Algeria,
+17-Jul-21,Africa,Namibia,
+17-Jul-21,Africa,Morocco,
+23-Jul-21,Africa,Morocco,
+24-Jul-21,Africa,Algeria,
+24-Jul-21,Africa,Nigeria,0.47
+27-Jul-21,Africa,Morocco,
+27-Jul-21,Africa,Mauritius,
+28-Jul-21,Africa,Mozambique,
+28-Jul-21,Africa,Zimbabwe,
+28-Jul-21,Africa,Tanzania,
+28-Jul-21,Africa,Sudan,0.4
+29-Jul-21,Africa,Zimbabwe,
+30-Jul-21,Africa,Algeria,
+31-Jul-21,Africa,Uganda,0.3
+31-Jul-21,Africa,Tanzania,0.1
+1-Aug-21,Africa,Egypt,
+1-Aug-21,Africa,Morocco,
+2-Aug-21,Africa,Libya,
+2-Aug-21,Africa,Tunisia,0.4
+3-Aug-21,Africa,Morocco,
+3-Aug-21,Africa,Libya,
+7-Aug-21,Africa,Zambia,0.1
+10-Aug-21,Africa,Mozambique,
+12-Aug-21,Africa,Rwanda,
+13-Aug-21,Africa,Morocco,
+18-Aug-21,Africa,Sierra Leone,0.2
+19-Aug-21,Africa,Zimbabwe,
+19-Aug-21,Africa,Zimbabwe,
+19-Aug-21,Africa,Zimbabwe,
+20-Aug-21,Africa,Ethiopia,0.2
+20-Aug-21,Africa,Lesotho,0.20334
+20-Aug-21,Africa,Zimbabwe,
+22-Aug-21,Africa,Morocco,
+22-Aug-21,Africa,Zimbabwe,
+23-Aug-21,Africa,Kenya,
+23-Aug-21,Africa,Togo,0.2
+23-Aug-21,Africa,Ethiopia,0.3
+25-Aug-21,Africa,Zimbabwe,
+27-Aug-21,Africa,African Union,
+27-Aug-21,Africa,South Sudan,
+27-Aug-21,Africa,Uganda,
+27-Aug-21,Africa,Malawi,
+1-Sep-21,Africa,Guinea-Bissau,0.1
+1-Sep-21,Africa,Egypt,
+2-Sep-21,Africa,Egypt,
+5-Sep-21,Africa,Botswana,
+6-Sep-21,Africa,Egypt,
+9-Sep-21,Africa,Mauritius,
+9-Sep-21,Africa,Angola,
+9-Sep-21,Africa,Mauritania,0.2
+12-Sep-21,Africa,Angola,
+13-Sep-21,Africa,Zimbabwe,
+14-Sep-21,Africa,Zimbabwe,
+15-Sep-21,Africa,Namibia,
+16-Sep-21,Africa,Morocco,
+18-Sep-21,Africa,Burkina Faso,0.4
+18-Sep-21,Africa,Kenya,0.2
+20-Sep-21,Africa,Uganda,
+24-Sep-21,Africa,Madagascar,0.3
+24-Sep-21,Africa,Morocco,
+26-Sep-21,Africa,Zimbabwe,0.5
+27-Sep-21,Africa,Tanzania,
+28-Sep-21,Africa,Egypt,
+29-Sep-21,Africa,Egypt,
+29-Sep-21,Africa,Democratic Republic of Congo,0.4
+30-Sep-21,Africa,Algeria,
+30-Sep-21,Africa,Somalia,
+4-Oct-21,Africa,Guinea-Bissau,0.2
+4-Oct-21,Africa,Angola,
+5-Oct-21,Africa,Egypt,
+5-Oct-21,Africa,Egypt,
+8-Oct-21,Africa,Tanzania,
+10-Oct-21,Africa,Morocco,
+14-Oct-21,Africa,Burundi,0.5
+15-Oct-21,Africa,Uganda,
+17-Oct-21,Africa,Libya,
+19-Oct-21,Africa,Uganda,0.7
+24-Oct-21,Africa,Ethiopia,0.8
+1-Nov-21,Africa,Somalia,
+1-Nov-21,Africa,Egypt,2
+1-Nov-21,Africa,Tanzania,0.5
+1-Nov-21,Africa,Zambia,
+26-Nov-21,Africa,Namibia,
+29-Nov-21,Africa,Angola,
+30-Nov-21,Africa,Zimbabwe,
+1-Dec-21,Africa,Djibouti,1.1
+5-Dec-21,Africa,Somalia,0.5
+12-Dec-21,Africa,Mozambique,1
+13-Dec-21,Africa,Niger,0.4
+14-Dec-21,Africa,Cameroon,1
+15-Dec-21,Africa,Nigeria,
+17-Dec-21,Africa,Uganda,
+20-Dec-21,Africa,Zimbabwe,1
+20-Dec-21,Africa,Uganda,0.6
+21-Dec-21,Africa,Mauritania,1
+27-Dec-21,Africa,Ethiopia,
+1-Jan-22,Africa,Botswana,
+7-Jan-22,Africa,Kenya,
+12-Jan-22,Africa,Zimbabwe,
+12-Jan-22,Africa,Zimbabwe,
+12-Jan-22,Africa,Benin,0.5
+12-Jan-22,Africa,Rwanda,
+20-Jan-22,Africa,Ethiopia,2.2
+20-Jan-22,Africa,Egypt,
+21-Jan-22,Africa,Congo,0.2
+25-Jan-22,Africa,Zambia,0.4
+26-Jan-22,Africa,Tanzania,0.8
+26-Jan-22,Africa,Mali,0.3
+28-Jan-22,Africa,Namibia,
+28-Jan-22,Africa,Tanzania,0.2
+20-Feb-22,Africa,Egypt,
+21-Feb-22,Africa,Egypt,
+22-Feb-22,Africa,Tunisia,1.5
+2-Apr-22,Africa,Botswana,
+2-Apr-22,Africa,Botswana,
+20-Apr-22,Africa,Mauritania,1
+25-Apr-22,Africa,Zambia,0.6
+10-May-22,Africa,Benin,0.5
+10-May-22,Africa,Morocco,
+12-Jun-22,Africa,Uganda,-
+27-Jun-22,Africa,Ethiopia,10
+14-Jul-22,Africa,Tanzania,3
+8-Aug-22,Africa,Namibia,
+22-Aug-22,Africa,Niger,-
+23-Sep-22,Africa,São Tomé and Príncipe,0.1
+24-Sep-22,Africa,Egypt,10
+4-Oct-22,Africa,Egypt,0
+4-Oct-22,Africa,Egypt,0
+27-Oct-22,Africa,Mali,0.3
+25-Nov-22,Africa,Zimbabwe,3
+27-Dec-22,Africa,Morocco,-
+,Africa,Tunisia,
+,Africa,Comoros,
+,Africa,Benin,-
+,Africa,Egypt,
+,Africa,Benin,
+,Africa,Cameroon,
+,Africa,Egypt,
+,Africa,Egypt,
+,Africa,Egypt,
+,Africa,Egypt,
+,Africa,Egypt,
+,Africa,Benin,
