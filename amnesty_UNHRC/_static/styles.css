@@ -1,0 +1,11 @@
+.bd-article-container {
+    max-width: none !important;
+}
+
+.bd-sidebar-secondary {
+    display: none !important;
+}
+
+.cell_input, .stream.highlight-myst-ansi {
+    display: none !important;
+}

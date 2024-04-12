@@ -4,5 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: test
-- file: notebook
+- file: dashboard1
+- file: dashboard2
+- file: dashboard3
+- file: dashboard4
+- file: dashboard5
