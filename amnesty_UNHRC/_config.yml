@@ -1,6 +1,6 @@
 #######################################################################################
 # A default configuration that will be loaded for all jupyter books
-# See the documentation for help and more options: 
+# See the documentation for help and more options:
 # https://jupyterbook.org/customize/config.html
 
 #######################################################################################
@@ -14,7 +14,7 @@ logo                        : logo.svg  # A path to the book logo
 # See https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: force
-  timeout: 400
+  timeout: 1800
 
 # Define the name of the latex output file for PDF builds
 latex:
