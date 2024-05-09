@@ -4,8 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: dashboard1
-- file: dashboard2
-- file: dashboard3
-- file: dashboard4
-- file: dashboard5
+- file: financial_assistance_alignment_over_time
+- file: voting_alignment_by_topic
+- file: financial_assistance_and_alignment_by_country
+- file: country_voting_alignment_pre_and_post_vaccine_donations
